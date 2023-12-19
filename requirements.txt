@@ -1,0 +1,7 @@
+flask
+torch
+numpy
+transformers
+uvicorn
+fastapi
+pydantic
