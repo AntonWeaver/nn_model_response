@@ -1,4 +1,4 @@
-#Response app for NN model 
+# Response app for NN model 
 
 This is response App for developed NN model. The main idea - create a simple app to get some responce from NN model: input text -> text output from the model.
 
