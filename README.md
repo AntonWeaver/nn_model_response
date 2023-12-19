@@ -5,7 +5,7 @@ This is response App for developed NN model. The main idea - create a simple app
 The model used for the project: github.com/AntonWeaver/hazop_mlc 
 
 The project includes:
-- Working with FastAPI & Uvicorn with server
+- Working with FastAPI & Uvicorn (server staff)
 - Back-end to get responce from the model
 - Result check via Postman
 
