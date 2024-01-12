@@ -10,4 +10,4 @@ The project includes:
 - Result check via Postman
 
 TODO:
-- TG-bot realization
+- TG-bot realization (DONE! Check 'tg-bot branch')
