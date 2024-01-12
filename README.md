@@ -9,5 +9,4 @@ The project includes:
 - Back-end to get responce from the model
 - Result check via Postman
 
-TODO:
-- TG-bot realization (DONE! Check 'tg-bot branch')
+TG-bot realization is available - decided to separate into a distinct repository (Check https://github.com/AntonWeaver/nn_model_response_tg_bot)
